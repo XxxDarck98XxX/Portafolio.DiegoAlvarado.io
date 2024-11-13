@@ -6,24 +6,14 @@ Este es mi portafolio personal, donde comparto una colección de mis trabajos en
 ## Secciones del Portafolio:
 
 - **Acerca de Mí**: Conoce más sobre mi trayectoria y mi pasión por el diseño y la animación.
-- **CV**: Aquí puedes descargar mi currículum para conocer más sobre mi experiencia profesional y educativa.
-- **Portafolio**: Muestra algunos de mis trabajos más recientes en modelado 3D y animación.
+- **CV**: [Descargar mi CV](https://github.com/tu-usuario/tu-repositorio/raw/main/cv.pdf)
+- **Portafolio**: [Ver mi portafolio](https://enlace-a-tu-portafolio.com)
+  Escanea el código QR para acceder a más ejemplos de mis proyectos:
+  ![Código QR para acceder al portafolio](https://github.com/tu-usuario/tu-repositorio/raw/main/qr.png)
 - **Demo Réel**: Una recopilación de mis mejores animaciones y trabajos realizados.
 - **Vídeo Presentación**: Un video donde me presento y explico más sobre mi enfoque y proyectos.
-- **Contacto**: Información sobre cómo ponerte en contacto conmigo.
-
-## Cómo Usar:
-
-1. Visita la sección "Portafolio" para ver ejemplos de mi trabajo.
-2. Descarga mi CV desde la sección "CV".
-3. Reproduce mi "Demo Réel" para ver una compilación de mis habilidades en acción.
 
 ## Contacto:
 
 - **Email**: [moldeado181@gmail.com](mailto:moldeado181@gmail.com)
 - **LinkedIn**: [Mi perfil en LinkedIn](https://www.linkedin.com/in/diego-alvarado-72b0922ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
- Alvarado González. Todos los derechos reservados.</p>
-</footer>
-
-</body>
-</html>
